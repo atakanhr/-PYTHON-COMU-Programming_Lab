@@ -56,7 +56,7 @@ def my_search_c(array_2,item):
       break
   return found,indis,step
 ################################################
-#Test Satiri
+#Test Satiri#
 arama_yapilacak  =10
 print("Dizi1 icerisinde ",arama_yapilacak,"sayisinin dönüsü",my_search_c(sayilar,arama_yapilacak))
 ################################################
