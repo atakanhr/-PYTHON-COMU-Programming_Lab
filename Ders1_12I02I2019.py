@@ -34,7 +34,7 @@ def selection_sort (arr):
                 smallest = j
         arr[i],arr[smallest] = arr[smallest],arr[i]
 ################################################
-#Test
+#Test#
 sayilar2=generate_an_array(10)
 print("yeni olusan dizi2",sayilar2)
 selection_sort(sayilar2)
