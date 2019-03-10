@@ -76,5 +76,5 @@ def binary_search (arr,item) :
             return (True , hamle )
     return False
 ################################################
-#Test
+#Test#
 print("dizi 1 uzerinde binary search ",arama_yapilacak,"aramasi",binary_search(sayilar,arama_yapilacak))
